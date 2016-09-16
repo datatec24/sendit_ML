@@ -13,7 +13,7 @@ var config = {};
 
 config.FB_VERIFY_TOKEN = "this_is_the_token";
 config.FB_PAGE_TOKEN="EAANrJkRkAloBAPKJOsspaSK2E9BmIPQHOT9dGge0vdBpLRjgfeiyfEQLl8QR7dPMZC6YLuyIgbKB8FHgIZACmGGuo304GoaTPlFYiZAIn3Vnu7shgaoxkL26uNQtQnXoHBCJR7AbNglXWv8MtBdfCD6Tual5cExxjdMemLqsQZDZD";
-config.SERVER_URL = "https://8f3b1f0d.ngrok.io";
+config.SERVER_URL = "https://messengerprod.herokuapp.com.io";
 config.port = 8888;
 
 config.pythonScriptsPath = "./Blabladata/";

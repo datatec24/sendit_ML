@@ -5,7 +5,7 @@
                 "proposals": [
                     {
                         "title": "Forfait Mobile",
-                        "image_url": "http://botsfrredtest.herokuapp.comhttp://www.s-sfr.fr/media/gred-telmobile-maxi.png",
+                        "image_url": "https://messengerprod.herokuapp.com.iohttp://www.s-sfr.fr/media/gred-telmobile-maxi.png",
                         "buttons": [
                             {
                                 "type": "postback",
@@ -16,7 +16,7 @@
                     },
                     {
                         "title": "Fibre, Box",
-                        "image_url": "http://botsfrredtest.herokuapp.comhttp://www.s-sfr.fr/media/gred-box-maxi1.png",
+                        "image_url": "https://messengerprod.herokuapp.com.iohttp://www.s-sfr.fr/media/gred-box-maxi1.png",
                         "buttons": [
                             {
                                 "type": "postback",
@@ -27,7 +27,7 @@
                     },
                     {
                         "title": "Pas encore Client",
-                        "image_url": "http://botsfrredtest.herokuapp.comhttp://www.s-sfr.fr/media/gred-caddie-maxi.png",
+                        "image_url": "https://messengerprod.herokuapp.com.iohttp://www.s-sfr.fr/media/gred-caddie-maxi.png",
                         "buttons": [
                             {
                                 "type": "postback",
@@ -132,7 +132,7 @@
                 "proposals": [
                     {
                         "title": "Tout savoir sur les forfaits Mobile RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -143,7 +143,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -154,7 +154,7 @@
                     },
                     {
                         "title": "Souscrire à un forfait mobile sans engagement RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/logo.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/logo.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -177,7 +177,7 @@
                 "proposals": [
                     {
                         "title": "Faire évoluer votre offre mobile",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -188,7 +188,7 @@
                     },
                     {
                         "title": "Comment faire évoluer votre offre mobile ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -204,7 +204,7 @@
                     },
                     {
                         "title": "Comment suivre ou annuler votre modification d'offre mobile ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -220,7 +220,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -277,7 +277,7 @@
                 "proposals": [
                     {
                         "title": "Faire évoluer votre offre mobile",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -288,7 +288,7 @@
                     },
                     {
                         "title": "Consulter les démarches utiles pour résilier votre forfait",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -304,7 +304,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -315,7 +315,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -338,7 +338,7 @@
                 "proposals": [
                     {
                         "title": "Faire évoluer votre offre mobile",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -349,7 +349,7 @@
                     },
                     {
                         "title": "Consulter les démarches utiles pour résilier votre forfait",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -365,7 +365,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -376,7 +376,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -399,7 +399,7 @@
                 "proposals": [
                     {
                         "title": "Comment changer de mobile ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -415,7 +415,7 @@
                     },
                     {
                         "title": "Consulter les démarches utiles pour résilier votre forfait",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -431,7 +431,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -442,7 +442,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -465,7 +465,7 @@
                 "proposals": [
                     {
                         "title": "Consulter les démarches utiles pour résilier votre forfait",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -481,7 +481,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -492,7 +492,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -515,7 +515,7 @@
                 "proposals": [
                     {
                         "title": "Consulter, modifier vos options",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -526,7 +526,7 @@
                     },
                     {
                         "title": "Consulter, souscrire un Pack séjour Europe, USA, Afrique…",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -537,11 +537,11 @@
                     },
                     {
                         "title": "Pour gérer vos options, composez le 963 depuis votre mobile (gratuit) ou le 06 1000 1963 depuis un fixe (prix d'un appel vers un mobile).",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/phone.jpg"
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/phone.jpg"
                     },
                     {
                         "title": "Comment gérer, souscrire ou annuler vos options ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -557,7 +557,7 @@
                     },
                     {
                         "title": "Comment suivre ou annuler vos modifications d'options ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -573,7 +573,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -596,7 +596,7 @@
                 "proposals": [
                     {
                         "title": "Recharger votre Forfait bloqué RED ou celui d'un proche",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -607,11 +607,11 @@
                     },
                     {
                         "title": "Pour recharger votre crédit, composez le 950 depuis votre mobile (gratuit).",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/phone.jpg"
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/phone.jpg"
                     },
                     {
                         "title": "Comment recharger votre Forfait bloqué ou celui d'un proche",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -627,7 +627,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -650,7 +650,7 @@
                 "proposals": [
                     {
                         "title": "Comment changer d'opérateur mobile",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -666,7 +666,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -689,7 +689,7 @@
                 "proposals": [
                     {
                         "title": "Consulter, souscrire un Pack séjour Europe, USA, Afrique…",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -700,7 +700,7 @@
                     },
                     {
                         "title": "Comment communiquer depuis l'étranger avec les offres RED by SFR: appels, SMS/MMS et Internet mobile ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -716,7 +716,7 @@
                     },
                     {
                         "title": "Comment communiquer vers l'étranger avec les offres RED by SFR ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -732,7 +732,7 @@
                     },
                     {
                         "title": "Qu'est ce que la version Travel des forfaits RED ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -748,7 +748,7 @@
                     },
                     {
                         "title": "Comment fonctionne l'option SMS illimités Europe / Dom ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -854,7 +854,7 @@
                 "proposals": [
                     {
                         "title": "Comment suivre ou annuler votre commande ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -870,7 +870,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -881,7 +881,7 @@
                     },
                     {
                         "title": "Votre suivi de commande RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/logo.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/logo.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -904,7 +904,7 @@
                 "proposals": [
                     {
                         "title": "Désimlocker votre mobile depuis votre Espace client",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -915,7 +915,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -926,7 +926,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -949,7 +949,7 @@
                 "proposals": [
                     {
                         "title": "Comment changer de mobile ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -965,7 +965,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -988,7 +988,7 @@
                 "proposals": [
                     {
                         "title": "Donner une deuxième vie à vos appareils et faites des économies",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -999,7 +999,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1022,7 +1022,7 @@
                 "proposals": [
                     {
                         "title": "Les premiers réflexes à avoir : Suspendre votre ligne, localiser votre mobile…",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1033,11 +1033,11 @@
                     },
                     {
                         "title": "Pour suspendre votre ligne, composez le 06 1000 1963 depuis un poste fixe (prix vers un mobile)",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/phone.jpg"
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/phone.jpg"
                     },
                     {
                         "title": "Les bons reflexes en cas de perte ou de vol de mobile",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1053,7 +1053,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1110,7 +1110,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1121,7 +1121,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1144,7 +1144,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1155,7 +1155,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1178,7 +1178,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1189,7 +1189,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1212,7 +1212,7 @@
                 "proposals": [
                     {
                         "title": "Paramétrer et mettre à jour automatiquement votre mobile",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1223,7 +1223,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1234,7 +1234,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1257,7 +1257,7 @@
                 "proposals": [
                     {
                         "title": "Que faire en cas de panne de votre mobile ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1273,7 +1273,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1296,7 +1296,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1307,7 +1307,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1374,7 +1374,7 @@
                 "proposals": [
                     {
                         "title": "Activer votre carte SIM",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1385,11 +1385,11 @@
                     },
                     {
                         "title": "Pour commander, activer une carte SIM, composez le 963 depuis votre mobile (gratuit) ou le 06 1000 1963 depuis un fixe (prix d'un appel vers un mobile).",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/phone.jpg"
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/phone.jpg"
                     },
                     {
                         "title": "Comment activer votre nouvelle carte SIM RED ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1405,7 +1405,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1416,7 +1416,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1439,7 +1439,7 @@
                 "proposals": [
                     {
                         "title": "Commander une nouvelle carte SIM",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1450,11 +1450,11 @@
                     },
                     {
                         "title": "Pour commander, activer une carte SIM, composez le 963 depuis votre mobile (gratuit) ou le 06 1000 1963 depuis un fixe (prix d'un appel vers un mobile).",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/phone.jpg"
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/phone.jpg"
                     },
                     {
                         "title": "Apprenez tout sur le changement ou la commande d'une nouvelle carte SIM !",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1470,7 +1470,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1481,7 +1481,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1504,7 +1504,7 @@
                 "proposals": [
                     {
                         "title": "Rétrouver votre code PUK afin de débloquer votre carte SIM",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1515,11 +1515,11 @@
                     },
                     {
                         "title": "Pour commander, activer une carte SIM, composez le 963 depuis votre mobile (gratuit) ou le 06 1000 1963 depuis un fixe (prix d'un appel vers un mobile).",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/phone.jpg"
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/phone.jpg"
                     },
                     {
                         "title": "Comment débloquer votre carte SIM SFR à l'aide du code PUK ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1535,7 +1535,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1546,7 +1546,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1569,7 +1569,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1580,7 +1580,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1603,7 +1603,7 @@
                 "proposals": [
                     {
                         "title": "Vous avez des problèmes d'envoi et/ou de réception de SMS/MMS ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1619,7 +1619,7 @@
                     },
                     {
                         "title": "Vous avez des problèmes de réception ou d'émission d'appel?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1635,7 +1635,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1658,7 +1658,7 @@
                 "proposals": [
                     {
                         "title": "Comment régler votre problème d'accès à l'Internet mobile ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1674,7 +1674,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1726,7 +1726,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1737,7 +1737,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1760,7 +1760,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1771,7 +1771,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1794,7 +1794,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1805,7 +1805,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1882,7 +1882,7 @@
                 "proposals": [
                     {
                         "title": "Accéder votre Espace client et gérer votre offre mobile",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1893,7 +1893,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1904,7 +1904,7 @@
                     },
                     {
                         "title": "Comment se connecter à votre Espace Client ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1920,7 +1920,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1943,7 +1943,7 @@
                 "proposals": [
                     {
                         "title": "Modifier le mot de passe de votre Espace client",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1954,7 +1954,7 @@
                     },
                     {
                         "title": "Comment changer le mot de passe de votre Espace client ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1970,7 +1970,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -1993,7 +1993,7 @@
                 "proposals": [
                     {
                         "title": "Récupérer un nouveau mot de passe pour vous connecter à votre Espace Client",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2004,7 +2004,7 @@
                     },
                     {
                         "title": "La récupération de votre mot de passe est impossible ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2015,7 +2015,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2026,7 +2026,7 @@
                     },
                     {
                         "title": "Comment obtenir un nouveau mot de passe et le personnaliser par la suite ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2042,7 +2042,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2065,7 +2065,7 @@
                 "proposals": [
                     {
                         "title": "Modifier vos données personnelles et bancaires",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2076,7 +2076,7 @@
                     },
                     {
                         "title": "Comment modifier vos coordonnées en ligne ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2092,7 +2092,7 @@
                     },
                     {
                         "title": "Comment mettre à jour vos coordonnées bancaires ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2108,7 +2108,7 @@
                     },
                     {
                         "title": "Comment modifier votre adresse email de contact ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2124,7 +2124,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2147,7 +2147,7 @@
                 "proposals": [
                     {
                         "title": "Comment modifier ou conserver votre numéro de téléphone ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2163,7 +2163,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2186,7 +2186,7 @@
                 "proposals": [
                     {
                         "title": "Céder votre forfait mobile à un proche",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2197,7 +2197,7 @@
                     },
                     {
                         "title": "Tout ce qu'il faut savoir avant de céder son forfait",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2213,7 +2213,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2236,7 +2236,7 @@
                 "proposals": [
                     {
                         "title": "Accéder à votre espace de procuration",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2247,7 +2247,7 @@
                     },
                     {
                         "title": "La procuration d'une ligne mobile : comment ça marche ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2263,7 +2263,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2286,7 +2286,7 @@
                 "proposals": [
                     {
                         "title": "Consulter votre mandat SEPA",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2297,7 +2297,7 @@
                     },
                     {
                         "title": "Signer votre mandat SEPA",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2308,7 +2308,7 @@
                     },
                     {
                         "title": "Comprendre le virement et le prélèvement SEPA",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2324,7 +2324,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2405,7 +2405,7 @@
                 "proposals": [
                     {
                         "title": "Suivre votre encours de consommation",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2416,7 +2416,7 @@
                     },
                     {
                         "title": "Détail de votre encours de consommation hors et au-delà de votre forfait",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2427,11 +2427,11 @@
                     },
                     {
                         "title": "Pour commander, activer une carte SIM, composez le 963 depuis votre mobile (gratuit) ou le 06 1000 1963 depuis un fixe (prix d'un appel vers un mobile).",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/phone.jpg"
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/phone.jpg"
                     },
                     {
                         "title": "Comment suivre votre consommation",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2447,7 +2447,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2458,7 +2458,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2481,7 +2481,7 @@
                 "proposals": [
                     {
                         "title": "Consulter le bilan conso de vos 3 dernières factures",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2492,7 +2492,7 @@
                     },
                     {
                         "title": "Comprendre son bilan conso",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2508,7 +2508,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2531,7 +2531,7 @@
                 "proposals": [
                     {
                         "title": "Accéder au paiement en ligne de votre facture",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2542,11 +2542,11 @@
                     },
                     {
                         "title": "Pour régler vos factures, composez le 963 depuis votre mobile (gratuit) ou le 06 1000 1963 depuis un fixe (prix d'un appel vers un mobile).",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/phone.jpg"
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/phone.jpg"
                     },
                     {
                         "title": "Comment payer votre facture mobile RED ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2562,7 +2562,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2585,7 +2585,7 @@
                 "proposals": [
                     {
                         "title": "Accéder à vos factures",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2596,7 +2596,7 @@
                     },
                     {
                         "title": "Comment consulter votre facture ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2612,7 +2612,7 @@
                     },
                     {
                         "title": "Comment payer votre facture mobile RED ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2674,7 +2674,7 @@
                 "proposals": [
                     {
                         "title": "Comprendre votre première facture",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2690,7 +2690,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2701,7 +2701,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2724,7 +2724,7 @@
                 "proposals": [
                     {
                         "title": "Comprendre votre facture mensuelle",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2740,7 +2740,7 @@
                     },
                     {
                         "title": "Comprendre votre facture mensuelle détaillée",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2756,7 +2756,7 @@
                     },
                     {
                         "title": "Savoir ce qui est inclus dans votre forfait",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2772,7 +2772,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2783,7 +2783,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2806,7 +2806,7 @@
                 "proposals": [
                     {
                         "title": "Comprendre votre facture groupée",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2822,7 +2822,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2833,7 +2833,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2856,7 +2856,7 @@
                 "proposals": [
                     {
                         "title": "Comprendre votre hors-forfait",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2872,7 +2872,7 @@
                     },
                     {
                         "title": "Tout savoir sur les achats multimédias",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2888,7 +2888,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2899,7 +2899,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2922,7 +2922,7 @@
                 "proposals": [
                     {
                         "title": "Comprendre votre facture de résiliation",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2938,7 +2938,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -2949,7 +2949,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3059,7 +3059,7 @@
                 "proposals": [
                     {
                         "title": "Suivre ou annuler votre commande RED + BOX",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3070,7 +3070,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3081,7 +3081,7 @@
                     },
                     {
                         "title": "Comprendre votre facture mensuelle",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/logo.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/logo.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3104,7 +3104,7 @@
                 "proposals": [
                     {
                         "title": "Comprendre votre facture groupée",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3115,7 +3115,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3138,7 +3138,7 @@
                 "proposals": [
                     {
                         "title": "Comprendre votre facture de résiliation",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3149,7 +3149,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3206,7 +3206,7 @@
                 "proposals": [
                     {
                         "title": "Demander une étiquette de retour d’équipement",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3217,7 +3217,7 @@
                     },
                     {
                         "title": "Renvoyer vos équipements",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3233,7 +3233,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3290,7 +3290,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3301,7 +3301,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3324,7 +3324,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3335,7 +3335,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3358,7 +3358,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3369,7 +3369,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3392,7 +3392,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3403,7 +3403,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3450,7 +3450,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3461,7 +3461,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3484,7 +3484,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3495,7 +3495,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3547,7 +3547,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3558,7 +3558,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3581,7 +3581,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3592,7 +3592,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3615,7 +3615,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3626,7 +3626,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3688,7 +3688,7 @@
                 "proposals": [
                     {
                         "title": "Accéder à votre espace client : première connexion",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3704,7 +3704,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3715,7 +3715,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3738,7 +3738,7 @@
                 "proposals": [
                     {
                         "title": "Modifier le mot de passe de votre Espace client",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3754,7 +3754,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3777,7 +3777,7 @@
                 "proposals": [
                     {
                         "title": "Récupérer un nouveau mot de passe pour vous connecter à votre Espace Client",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3793,7 +3793,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3816,7 +3816,7 @@
                 "proposals": [
                     {
                         "title": "Modifier en toute autonomie vos coordonnées bancaires",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3827,7 +3827,7 @@
                     },
                     {
                         "title": "Modifier en toute autonomie votre adresse postale",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3838,7 +3838,7 @@
                     },
                     {
                         "title": "Mettre à jour votre e-mail de contact",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3849,7 +3849,7 @@
                     },
                     {
                         "title": "Modifier vos données personnelles et bancaires",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3865,7 +3865,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3888,7 +3888,7 @@
                 "proposals": [
                     {
                         "title": "Accéder à votre espace de procuration",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3904,7 +3904,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3951,7 +3951,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -3962,7 +3962,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4014,7 +4014,7 @@
                 "proposals": [
                     {
                         "title": "Consulter votre facture",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4025,7 +4025,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4048,7 +4048,7 @@
                 "proposals": [
                     {
                         "title": "Signer votre mandat de prélèvement (SEPA)",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4064,7 +4064,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4087,7 +4087,7 @@
                 "proposals": [
                     {
                         "title": "Payer en ligne votre facture",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4098,11 +4098,11 @@
                     },
                     {
                         "title": "Payer votre facture par carte bancaire en appelant le serveur vocal",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/phone.jpg"
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/phone.jpg"
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4113,7 +4113,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4209,7 +4209,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4220,7 +4220,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4231,7 +4231,7 @@
                     },
                     {
                         "title": "Votre suivi de commande RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/logo.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/logo.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4254,7 +4254,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4265,7 +4265,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4288,7 +4288,7 @@
                 "proposals": [
                     {
                         "title": "Bénéficier de la remise RED Internet + Mobile",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4299,7 +4299,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4322,7 +4322,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4333,7 +4333,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4356,7 +4356,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4367,7 +4367,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4468,7 +4468,7 @@
                 "proposals": [
                     {
                         "title": "Installer votre modem RED Fibre",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4484,7 +4484,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4495,7 +4495,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4518,7 +4518,7 @@
                 "proposals": [
                     {
                         "title": "Accéder à l'interface de gestion du modem",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4534,7 +4534,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4545,7 +4545,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4568,7 +4568,7 @@
                 "proposals": [
                     {
                         "title": "Se connecter en Ethernet",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4584,7 +4584,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4595,7 +4595,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4618,7 +4618,7 @@
                 "proposals": [
                     {
                         "title": "Se connecter en Wifi",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4634,7 +4634,7 @@
                     },
                     {
                         "title": "Comment modifier le nom du réseau wifi (SSID) de votre modem ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4650,7 +4650,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4661,7 +4661,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4684,7 +4684,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4695,7 +4695,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4747,7 +4747,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4758,7 +4758,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4781,7 +4781,7 @@
                 "proposals": [
                     {
                         "title": "Se connecter en Ethernet",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4797,7 +4797,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4820,7 +4820,7 @@
                 "proposals": [
                     {
                         "title": "Comment utiliser le contrôle du direct ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4836,7 +4836,7 @@
                     },
                     {
                         "title": "Comment enregistrer un programme TV?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4852,7 +4852,7 @@
                     },
                     {
                         "title": "Comment utiliser la TV à la demande (Replay) ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4868,7 +4868,7 @@
                     },
                     {
                         "title": "Comment louer un programme avec le Vidéo Club à Domicile (VOD) ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4884,7 +4884,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4907,7 +4907,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4918,7 +4918,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4970,7 +4970,7 @@
                 "proposals": [
                     {
                         "title": "Gérer vos options d'appels",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -4986,7 +4986,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5009,7 +5009,7 @@
                 "proposals": [
                     {
                         "title": "Comment utiliser votre répondeur fixe ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5025,7 +5025,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5048,7 +5048,7 @@
                 "proposals": [
                     {
                         "title": "Problème de reception, d'émission d'appels",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5064,7 +5064,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5075,7 +5075,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5098,7 +5098,7 @@
                 "proposals": [
                     {
                         "title": "Demander une étiquette de retour d’équipement",
-                        "image_url": "http://botsfrredtest.herokuapp.com",
+                        "image_url": "https://messengerprod.herokuapp.com.io",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5109,7 +5109,7 @@
                     },
                     {
                         "title": "Panne, changement de matériel ou résiliation de ligne… Comment renvoyer votre équipement ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5125,7 +5125,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5187,7 +5187,7 @@
                 "proposals": [
                     {
                         "title": "Accéder à votre Espace client et gérer votre offre en ligne",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5198,7 +5198,7 @@
                     },
                     {
                         "title": "Comment se connecter à votre Espace Client ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5214,7 +5214,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5237,7 +5237,7 @@
                 "proposals": [
                     {
                         "title": "Modifier le mot de passe de votre Espace client",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5248,7 +5248,7 @@
                     },
                     {
                         "title": "Comment changer le mot de passe de votre Espace client SFR ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5264,7 +5264,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5287,7 +5287,7 @@
                 "proposals": [
                     {
                         "title": "Récupérer un nouveau mot de passe pour vous connecter à votre Espace Client",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5298,7 +5298,7 @@
                     },
                     {
                         "title": "Comment obtenir un nouveau mot de passe et le personnaliser par la suite ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5314,7 +5314,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5337,7 +5337,7 @@
                 "proposals": [
                     {
                         "title": "Modifier vos données personnelles et bancaires",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5348,7 +5348,7 @@
                     },
                     {
                         "title": "Comment modifier vos coordonnées en ligne ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5364,7 +5364,7 @@
                     },
                     {
                         "title": "Comment mettre à jour vos coordonnées bancaires ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5380,7 +5380,7 @@
                     },
                     {
                         "title": "Comment modifier votre adresse email de contact ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5396,7 +5396,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5419,7 +5419,7 @@
                 "proposals": [
                     {
                         "title": "Accéder à votre espace de procuration",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5430,7 +5430,7 @@
                     },
                     {
                         "title": "La procuration d'une ligne fixe : comment ça marche ?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5446,7 +5446,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5493,7 +5493,7 @@
                 "proposals": [
                     {
                         "title": "Suivre votre consommation",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5504,7 +5504,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5515,7 +5515,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5567,7 +5567,7 @@
                 "proposals": [
                     {
                         "title": "Accéder à vos dernières factures",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5578,7 +5578,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5601,7 +5601,7 @@
                 "proposals": [
                     {
                         "title": "Signer votre mandat de prélèvement (SEPA)",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5617,7 +5617,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5640,7 +5640,7 @@
                 "proposals": [
                     {
                         "title": "Payer en ligne votre facture",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/client.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/client.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5651,11 +5651,11 @@
                     },
                     {
                         "title": "Payer votre facture par carte bancaire en appelant le serveur vocal",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/phone.jpg"
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/phone.jpg"
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5666,7 +5666,7 @@
                     },
                     {
                         "title": "Retrouver la Communauté dédiée RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/communaute.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/communaute.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5728,7 +5728,7 @@
                 "proposals": [
                     {
                         "title": "Découvrir les forfaits mobile RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5739,7 +5739,7 @@
                     },
                     {
                         "title": "Souscrire à un forfait mobile sans engagement RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/logo.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/logo.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5762,7 +5762,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5773,7 +5773,7 @@
                     },
                     {
                         "title": "Souscrire à un forfait mobile sans engagement RED by SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/logo.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/logo.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5796,7 +5796,7 @@
                 "proposals": [
                     {
                         "title": "Le réseau internet et mobile de SFR",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/logo.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/logo.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5807,7 +5807,7 @@
                     },
                     {
                         "title": "Le réseau Fibre : voir notre couverture",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/logo.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/logo.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5818,7 +5818,7 @@
                     },
                     {
                         "title": "Le réseau Mobile : voir notre couverture",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/logo.jpg",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/logo.jpg",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5841,7 +5841,7 @@
                 "proposals": [
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5864,7 +5864,7 @@
                 "proposals": [
                     {
                         "title": "Comment changer d'opérateur mobile en conservant votre numéro?",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
@@ -5880,7 +5880,7 @@
                     },
                     {
                         "title": "Retrouver toute l'Assistance RED",
-                        "image_url": "http://botsfrredtest.herokuapp.com/assets/faq.png",
+                        "image_url": "https://messengerprod.herokuapp.com.io/assets/faq.png",
                         "buttons": [
                             {
                                 "type": "web_url",
