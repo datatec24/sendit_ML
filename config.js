@@ -11,12 +11,12 @@
 // module.exports = config;
 var config = {};
 
-config.FB_VERIFY_TOKEN = "this_is_the_token";
-config.FB_PAGE_TOKEN="EAANrJkRkAloBAPKJOsspaSK2E9BmIPQHOT9dGge0vdBpLRjgfeiyfEQLl8QR7dPMZC6YLuyIgbKB8FHgIZACmGGuo304GoaTPlFYiZAIn3Vnu7shgaoxkL26uNQtQnXoHBCJR7AbNglXWv8MtBdfCD6Tual5cExxjdMemLqsQZDZD";
+config.FB_VERIFY_TOKEN = "pass";
+config.FB_PAGE_TOKEN="EAAZAzUq18aNcBANOSZASjhYT7mwni8tFdoS8KDvjIZBX5EIhgJdd07UZBizhldA2CsowGaZAPysZBTIZCtLWINIbWm6JCN9KExpXzQqYKOwhoyox8PAJrZCbI0yha3UIlVszmUljgVwUTJXhg9FwGq5QdsJxfmZBshquAZAjfuU2d2ygZDZD";
 config.SERVER_URL = "https://messengerprod.herokuapp.com.io";
 config.port = 8888;
 
 config.pythonScriptsPath = "./Blabladata/";
-config.pythonPath = "/Users/pierregallet/anaconda/bin/python";
+config.pythonPath = "try";
 
 module.exports = config;
