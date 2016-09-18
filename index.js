@@ -112,6 +112,7 @@ app.get('/authorize', function(req, res) {
 });
 
 app.post('/webhook', function (req, res) {
+    console.log('on entre dans app.POST')
     var data = req.body;
     // Make sure this is a page subscription
     if (data.object == 'page') {

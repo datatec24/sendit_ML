@@ -3,7 +3,7 @@
    width:auto;
 }
 body{
-   background-image:url(https://8f3b1f0d.ngrok.io/assets/fond.jpg);
+   background-image:url(/assets/fond.jpg);
    background-size: cover;
    background-repeat: no-repeat;
    margin:0px !important;
